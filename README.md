@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://komarev.com/ghpvc/?username=al6nlee&color=yellowgreen)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=al6nlee&show_icons=true&icon_color=fff&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)  
